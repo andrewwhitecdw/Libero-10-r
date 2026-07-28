@@ -1,6 +1,6 @@
 # @package _global_
 
-default:
+defaults:
 - override /policy: bc_transformer_policy
 
 train:
