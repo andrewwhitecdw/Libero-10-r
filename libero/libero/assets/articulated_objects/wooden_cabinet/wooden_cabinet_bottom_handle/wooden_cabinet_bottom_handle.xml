@@ -1,6 +1,6 @@
 <mujoco model="wooden_cabinet_bottom_handle">
   <asset>
-  <texture file="dark_fine_wood.png" name="tex-wooden_cabinet_bottom_handle" type="2d" />
+  <texture file="../metal.png" name="tex-wooden_cabinet_bottom_handle" type="2d" />
   <material name="wooden_cabinet_bottom_handle" reflectance="0.5" texrepeat="1 1" texture="tex-wooden_cabinet_bottom_handle" texuniform="false" />
   <mesh file="visual/wooden_cabinet_bottom_handle_vis.msh" name="wooden_cabinet_bottom_handle_vis" scale="0.05 0.05 0.05" /></asset>
   <worldbody>
