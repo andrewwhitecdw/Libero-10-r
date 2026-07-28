@@ -1,6 +1,6 @@
 <mujoco model="basin_faucet_base">
   <asset>
-  <texture file="/home/yifengz/workspace/robosuite-master/robosuite/models/assets/textures/ceramic.png" name="tex-basin_faucet_base" type="2d" />
+  <texture file="../../textures/ceramic.png" name="tex-basin_faucet_base" type="2d" />
   <material name="basin_faucet_base" reflectance="0.5" texrepeat="1 1" texture="tex-basin_faucet_base" texuniform="false" />
   <mesh file="visual/basin_faucet_base_vis.msh" name="basin_faucet_base_vis" scale="0.02 0.02 0.02" /></asset>
   <worldbody>
