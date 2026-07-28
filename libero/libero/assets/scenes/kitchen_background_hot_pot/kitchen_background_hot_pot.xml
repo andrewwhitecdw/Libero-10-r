@@ -1,7 +1,6 @@
 <mujoco model="kitchen_background_hot_pot">
   <asset>
-  <texture file="kitchen_background_hot_pot.obj" name="tex-kitchen_background_hot_pot" type="2d" />
-  <material name="kitchen_background_hot_pot" reflectance="0.5" texrepeat="1 1" texture="tex-kitchen_background_hot_pot" texuniform="false" />
+  <material name="kitchen_background_hot_pot" rgba="0.8 0.8 0.8 1" reflectance="0.5" />
   <mesh file="visual/kitchen_background_hot_pot_vis.msh" name="kitchen_background_hot_pot_vis" scale="1.0 1.0 1.0" /><mesh file="collision/kitchen_background_hot_pot_ch.stl" name="kitchen_background_hot_pot_coll" scale="1.0 1.0 1.0" /></asset>
   <worldbody>
     <body>
