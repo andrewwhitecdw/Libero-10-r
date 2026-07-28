@@ -43,7 +43,7 @@
     <!-- Floor -->
     <geom condim="3" group="1" material="floorplane" name="floor" pos="0 0 0" size="3 3 .125" type="plane"/>
     <geom pos="-1.65 0.0 0.90" quat="0 0 0 1" type="mesh" mesh="kitchen_background_stove_vis" conaffinity="0" contype="0" group="1" material="kitchen_background_stove"/>
-    <geom pos="-1.50 0.23 0.93" quat="0.30 0 0 0.90" type="mesh" mesh="kitchen_background_hot_pot_vis" conaffinity="0" contype="0" group="1" material="kitchen_background_hot_pot"/>
+    <geom pos="-1.50 0.23 0.93" quat="0.3162 0 0 0.9487" type="mesh" mesh="kitchen_background_hot_pot_vis" conaffinity="0" contype="0" group="1" material="kitchen_background_hot_pot"/>
     <geom pos="-1.85 -0.85 0.90" quat="0 0 0 1" type="mesh" mesh="kitchen_background_pot_vis" conaffinity="0" contype="0" group="1" material="kitchen_background_pot"/>
     <geom pos="-1.75 -2.4 0" quat="0 0 0 1" type="mesh" mesh="kitchen_background_fridge_vis" conaffinity="0" contype="0" group="1" material="kitchen_background_fridge"/>
     <geom pos="-1.65 0.0 0.0" quat="0 0 0 1" type="mesh" mesh="kitchen_background_vis" conaffinity="0" contype="0" group="1" material="kitchen_background"/>
