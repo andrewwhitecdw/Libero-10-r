@@ -43,7 +43,7 @@
 
                 <geom class="slide_collision" pos="0 -.01 0" size="0.1125 0.015 0.0975" type="box" mass=".2"/>
                 <geom class="slide_collision" euler="1.57 0 0" pos="-0.0915 -0.03 -0.057" size="0.0095 0.0265 0.0095" type="cylinder" mass=".02"/>
-                <geom class="slide_collision" euler="1.57 0 0" pos="-0.0915 -0.03 -0.057" size="0.0095 0.0265 0.0095" type="cylinder" mass=".02"/>
+                <geom class="slide_collision" euler="1.57 0 0" pos="-0.0915 -0.03 0.057" size="0.0095 0.0265 0.0095" type="cylinder" mass=".02"/>
                 <geom class="slide_collision" pos="-0.0915 -0.0615 0" size="0.011 0.0795" type="cylinder" mass=".1"/>
                 <site type="sphere" name="slide_site" pos="-0.0915 -0.0615 0" size=".005" group="3"/>
             </body>
