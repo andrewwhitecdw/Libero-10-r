@@ -24,7 +24,7 @@
   <worldbody>
     <!-- Floor -->
     <body name="floor" pos="0 0 0">    
-      <geom condim="3" group="1" material="floorplane" name="floor" pos="0 0 0" size="3 3 .125" type="plane"/>
+      <geom condim="3" group="1" material="floorplane" name="floor_geom" pos="0 0 0" size="3 3 .125" type="plane"/>
     </body>
     <!-- Walls (visual only) -->
     <!-- <geom mesh="wall_frames" material="wall_frame_mat" type="mesh" -->
