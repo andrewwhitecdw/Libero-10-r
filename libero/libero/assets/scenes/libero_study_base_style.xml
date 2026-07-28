@@ -53,7 +53,7 @@
     <!-- Floor -->
     <geom condim="3" group="1" material="floorplane" name="floor" pos="0 0 0" size="3 3 .125" type="plane"/>
 
-    <geom pos="-1.9 0.5 1." quat="0.7071068 0 0 -0.7071068" type="mesh" mesh="study_wall_painting_vis" conaffinity="0" contype="0" group="1" name="study_wall_painging" material="study_wall_painting"/>
+    <geom pos="-1.9 0.5 1." quat="0.7071068 0 0 -0.7071068" type="mesh" mesh="study_wall_painting_vis" conaffinity="0" contype="0" group="1" name="study_wall_painting" material="study_wall_painting"/>
 
     <body name="study_table" pos="0 0 0" quat="1 0 0 0">
         <geom solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" type="mesh" mesh="desk_vis" conaffinity="0" contype="0" group="1" material="desk"/>
