@@ -18,7 +18,7 @@
     </asset>
 
     <default>
-        <default class="microwave">A
+        <default class="microwave">
             <geom conaffinity="0" contype="0" group="1" material="micro_black" type="mesh"/>
         </default>
         
