@@ -32,7 +32,7 @@
 	      </body>	      
 	      <body name="button" pos="0 0.0 0" quat="0.7071068 0 0 0.7071068">
                 <inertial pos="0 0 0" mass="3" diaginertia="1 1 1" />
-                <joint name="button" type="hinge" pos="0 0 0" axis="0 0 1"
+                <joint name="button_joint" type="hinge" pos="0 0 0" axis="0 0 1"
 		       limited="true" range="-0.005 2.1" damping="1"/>
 		<geom solimp="0.998 0.998 0.001" solref="0.001 1"
 		      density="100" friction="0.95 0.3 0.1"
