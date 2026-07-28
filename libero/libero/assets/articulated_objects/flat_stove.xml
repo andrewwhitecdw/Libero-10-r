@@ -2,11 +2,11 @@
     <compiler angle="radian" meshdir="./" />
     <size njmax="500" nconmax="100" />
     <asset>
-      <texture file="flat_stove/metal.png" name="tex-stove_knob" type="2d"/>
-      <material name="stove_knob_base" reflectance="0.5" texrepeat="1 1" texture="tex-stove_knob" texuniform="false"/>
+      <texture file="flat_stove/metal.png" name="tex-stove_knob_base" type="2d"/>
+      <material name="stove_knob_base" reflectance="0.5" texrepeat="1 1" texture="tex-stove_knob_base" texuniform="false"/>
       <mesh file="flat_stove/stove_knob_base/visual/stove_knob_base_vis.msh" name="stove_knob_base_vis" scale="1.0 1.0 1.0"/>      
-      <texture file="flat_stove/button_dark_texture.png" name="tex-stove_knob" type="2d"/>
-      <material name="stove_knob_button" reflectance="0.5" texrepeat="1 1" texture="tex-stove_knob" texuniform="false"/>
+      <texture file="flat_stove/button_dark_texture.png" name="tex-stove_knob_button" type="2d"/>
+      <material name="stove_knob_button" reflectance="0.5" texrepeat="1 1" texture="tex-stove_knob_button" texuniform="false"/>
       <mesh file="flat_stove/stove_knob_button/visual/stove_knob_button_vis.msh" name="stove_knob_button_vis" scale="1.0 1.0 1.0"/>
       <texture file="flat_stove/metal.png" name="tex-stove_metal" type="2d"/>
       <material name="stove_knob_metal" reflectance="0.5" texrepeat="1
