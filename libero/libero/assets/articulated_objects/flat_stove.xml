@@ -28,7 +28,7 @@
 			material="stove_knob_metal" group="1" name="burner"
 			contype="0" conaffinity="0"/>
 		</body>
-		<site name="burner" pos="0. 0. 0.022" size="0.0625 0.0005" rgba="0.9 0.05 0.05 1" type="cylinder"/>
+		<site name="burner_site" pos="0. 0. 0.022" size="0.0625 0.0005" rgba="0.9 0.05 0.05 1" type="cylinder"/>
 	      </body>	      
 	      <body name="button" pos="0 0.0 0" quat="0.7071068 0 0 0.7071068">
                 <inertial pos="0 0 0" mass="3" diaginertia="1 1 1" />
